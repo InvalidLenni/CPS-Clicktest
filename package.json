@@ -1,0 +1,19 @@
+{
+    "name": "cpsclicktest",
+    "description": "Just a CPS Clicktest.",
+    "version": "1.0.0",
+    "author": {
+        "name": "InvalidLenni",
+        "email": "contact@invalidlenni.de",
+        "url": "https://invalidlenni.de/"
+    },
+    "bugs": {
+        "email": "security@invalidlenni.de",
+        "url": "https://github.com/InvalidLenni/CPS-Clicktest/issues/new"
+    },
+    "homepage": "https://cps-clicktest.vercel.app/",
+    "main": "index.html",
+    "scripts": {
+        "start": "index.html"
+    }
+}
