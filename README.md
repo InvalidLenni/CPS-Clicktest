@@ -1,6 +1,6 @@
 <!--# Badges -->
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/InvalidLenni/CPS-clicktest?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/InvalidLenni/CPS-clicktest)
+![GitHub issues](https://img.shields.io/github/issues/InvalidLenni/CPS-clicktest?style=for-the-badge)
 
 
 
